@@ -1,12 +1,22 @@
 {
   "name": "create-typesafe-express-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "A starter kit to create an express app with typescript support",
+  "author": "Rajorshi Roy",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/royz/create-typesafe-express-app"
+  },
+  "keywords": [
+    "create",
+    "express",
+    "typescript",
+    "starter",
+    "boilerplate"
+  ],
   "license": "ISC"
 }
